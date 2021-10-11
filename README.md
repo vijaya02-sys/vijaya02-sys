@@ -1,6 +1,6 @@
 - 👋 Hi, @vijaya02-sys my github username. I am Vijaya Laxmi pursuing BTECH from NIT JSR.
 - 👀 I’m interested in Competitive Coding and Software Development.
-- 🌱 I’m currently learning C++, DSA , DBMS , OS, CN , OOPs.
+- 🌱 I’m currently learning C++, DSA , DBMS , OS, CN , OOPs , HTML , CSS.
 - 💞️ I’m looking for peer Coding.
 - 📫 How to reach me -- ping me on linkedin(you search my name). 
 
